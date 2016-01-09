@@ -35,9 +35,9 @@ Add an x for each milestone completed
 
 In `public/index.html`
 
-* [ ] Change the name to show your own name
-* [ ] Change the Firebase link to your own firebase
-* [ ] Add data about your favorite foods to your own firebase at the location `bio/favorite_foods`
+* [x] Change the name to show your own name
+* [x] Change the Firebase link to your own firebase
+* [x] Add data about your favorite foods to your own firebase at the location `bio/favorite_foods`
 
 ## Hints
 

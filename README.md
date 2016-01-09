@@ -12,7 +12,7 @@ If you are successful, you should have a site that looks like this:
 
 ![screenshot of the site](site.png)
 
-[https://hello-ucdd2.firebaseapp.com/](https://hello-ucdd2.firebaseapp.com/)
+[https://calebhsu-hello-ucdd2.firebaseapp.com/](https://calebhsu-hello-ucdd2.firebaseapp.com/)
 
 ## Due
 before the first class

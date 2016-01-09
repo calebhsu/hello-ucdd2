@@ -1,0 +1,9 @@
+{
+  "firebase": "calebhsu-hello-ucdd2",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
